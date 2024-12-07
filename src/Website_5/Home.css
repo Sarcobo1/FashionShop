@@ -1,0 +1,306 @@
+.box{
+    border: 1px solid #474F60FF;
+    width: 100%;
+    height: 50vh;
+    background-color: #474F60FF;
+}
+.img img{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.text_1{
+    color: white;
+    font-size: 1.6rem;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.img2 img{
+    margin-left: 45.5%;
+    margin-top: -11.55%;
+
+}
+.box2{
+    border: 1px solid #F2E1D9FF;
+    height: 105vh;
+    width: 55%;
+    margin-left: 38%;
+    margin-top: -45%;
+    background-color: #F2E1D9FF;
+}
+.img3 img{
+    margin-top: 15%;
+    margin-left: 5%;
+    width: 50%;
+}
+.text_2{
+    font-size: 2rem;
+    margin-left: 60%;
+    margin-top: -45%;
+    color: #101A31FF;
+}
+.text_3{
+    margin-left: 60%;
+    margin-top: 2%;
+    font-size: 1.2rem;
+    color: #852F44FF;
+}
+.text_4{
+    margin-left: 60%;
+    color: #104895FF;
+    margin-top: 1.5%;
+}
+.btn button{
+    padding: 20px 50px;
+    border: 1px solid #B6876BFF;
+    background-color: #B6876BFF;
+    color: white;
+    font-weight: 700;
+    margin-top: 3%;
+    margin-left: 60%;
+    cursor: pointer;
+}
+.btn button:hover{
+    background-color: #C69E87FF;
+    transition: 0.5s;
+    border: 1px solid #C69E87FF;
+}
+.text_5{
+    margin-top: 65%;
+    margin-left: 31%;
+    font-size: 1.8rem;
+    color: #101A31FF;
+}
+.text_6{
+    margin-left: -3%;
+    text-align: center;
+    margin-top: 1%;
+    color: #101A31FF;
+}
+.img4 img{
+    margin-left: 12%;
+    margin-top: 5%;
+}
+.text_7{
+    margin-left: 12%;
+    margin-top: 1%;
+    color: #101A31FF;
+}
+.text_8{
+    margin-left: 12%;
+    color: #101A31FF;
+    margin-top: 1%;
+}
+.img5 img{
+    margin-left: 32%;
+    margin-top: -13%;
+    display: block;
+}
+.text_9{
+    margin-left: 32%;
+    margin-top: 1%;
+    color: #101A31FF;
+}
+.text_10{
+    margin-left: 32%;
+    color: #101A31FF;
+    margin-top: 1%;
+}
+.img6 img{
+    margin-left: 52%;
+    margin-top: -13%;
+    display: block;
+}
+.text_11{
+    margin-left: 52%;
+    margin-top: 1%;
+    color: #101A31FF;
+}
+.text_12{
+    margin-left: 52%;
+    color: #101A31FF;
+    margin-top: 1%;
+}
+.img7 img{
+    margin-left: 72%;
+    margin-top: -13%;
+    display: block;
+}
+.text_13{
+    margin-left: 72%;
+    margin-top: 1%;
+    color: #101A31FF;
+}
+.text_14{
+    margin-left: 72%;
+    color: #101A31FF;
+    margin-top: 1%;
+}
+.img8 img{
+    width: 100%;
+    margin-top: 8%;
+}
+.img9 img{
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.text_15{
+    margin-left: 30%;
+    font-size: 1.2rem;
+    margin-top: -2%;
+    color: #1F275AFF;
+}
+.img10 img{
+    margin-left: 28%;
+}
+.img10 span{
+    margin-top: -8%;
+    margin-left: 37%;
+    display: block;
+    font-size: 1.3rem;
+    color: #1F275AFF;
+}
+.img10 p{
+    font-size: 1rem;
+    margin-top: 0.5%;
+    color: #848B93FF;
+}
+.icon{
+    margin-top: 2%;
+    margin-left: 65%;
+    cursor: pointer;
+    color: #FEDDCFFF;
+}
+.icon2{
+    margin-top: -1.8%;
+    margin-left: 70%;
+    cursor: pointer;
+    color: #FEDDCFFF;
+}
+.text_16 {
+    margin-left: 67%;
+    font-size: 1.1rem;
+    margin-top: -1.6%;
+}
+.text_16 p{
+    margin-left: 6%;
+    margin-top: -4.5%;
+    color: #FEDDCFFF;
+}
+.icon:hover{
+    color: black;
+    transition: 0.3s;
+}
+.icon2:hover{
+    color: black;
+    transition: 0.3s;
+}
+.text_17{
+    margin-left: 33%;
+    margin-top: 7%;
+    color: #101A31FF;
+    font-size: 1.5rem;
+}
+.text_18{
+    text-align: center;
+    margin-left: -1%;
+    margin-top: 1%;
+    color: #1F275AFF;
+}
+.img11{
+    margin-top: 5%;
+    margin-left: 11%;
+}
+.img12 img{
+    margin-left: 52%;
+    display: block;
+    margin-top: -33.1%;
+}
+.img13 img{
+    width: 100%;
+    margin-top: 5%;
+}
+.img14 img{
+    margin-left: 60%;
+    margin-top: -25%;
+    display: block;
+}
+.text_19{
+    color: white;
+    margin-left: 60%;
+    margin-top: 2%;
+}
+.text_20{
+    font-size: 1.5rem;
+    margin-left: 60%;
+    margin-top: 4%;
+    color: #B39278FF;
+    cursor: pointer;
+}
+.text_20 span:hover{
+    color: white;
+}
+.text_21 span:hover{
+    color: white;
+}
+.text_21{
+    margin-left: 60%;
+    margin-top: 1.5%;
+    color: #B39278FF;
+    cursor: pointer;
+}
+.text_22{
+    margin-top: -15%;
+    color: #B39278FF;
+    font-size: 1.2rem;
+    margin-left: 80%;
+}
+.text_23{
+    color: white;
+    margin-left: 80%;
+    margin-top: 1%;
+    cursor: pointer;
+}
+.text_23 span:hover{
+    color: #B39278FF;
+    transition: 0.3s;
+}
+.text_24{
+    color: white;
+    margin-left: 80%;
+    margin-top: 1%;
+    cursor: pointer;
+}
+.text_24 span:hover{
+    color: #B39278FF;
+    transition: 0.3s;
+}
+.text_25{
+    color: white;
+    margin-left: 80%;
+    margin-top: 1%;
+    cursor: pointer;
+}
+.text_25 span:hover{
+    color: #B39278FF;
+    transition: 0.3s;
+}
+.text_26{
+    color: white;
+    margin-left: 80%;
+    margin-top: 1%;
+    cursor: pointer;
+}
+.text_26 span:hover{
+    color: #B39278FF;
+    transition: 0.3s;
+}
+.text_27{
+    color: white;
+    margin-left: 80%;
+    margin-top: 1%;
+    cursor: pointer;
+}
+.text_27 span:hover{
+    color: #B39278FF;
+    transition: 0.3s;
+}
